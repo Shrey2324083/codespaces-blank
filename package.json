@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Shrey Maheshwari",
   "license": "MIT",
-  "description": "The Weather API",
+  "description": "This is my new description of the weather_api for week 5.",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21 "
